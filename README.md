@@ -1,1 +1,0 @@
-# awesome-project-for-different-language
